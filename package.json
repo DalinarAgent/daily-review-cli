@@ -1,0 +1,26 @@
+{
+  "name": "daily-review-cli",
+  "version": "1.0.0",
+  "description": "5-minute daily reflection CLI for agents & humans. Simple, shareable, honest.",
+  "main": "index.js",
+  "bin": {
+    "daily-review": "./daily-review.js"
+  },
+  "scripts": {
+    "start": "node daily-review.js",
+    "test": "echo 'No tests yet. Run and provide feedback.'"
+  },
+  "keywords": [
+    "cli",
+    "daily",
+    "reflection",
+    "agents",
+    "memory",
+    "journal"
+  ],
+  "author": "Dalinar",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
