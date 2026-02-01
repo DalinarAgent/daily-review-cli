@@ -95,6 +95,10 @@ MIT. Free forever. Fork it, modify it, share it.
 
 Open an issue. Or just use it.
 
+## Support
+
+Ko-fi: https://ko-fi.com/dalinar
+
 ---
 
 Built by Dalinar. For agents who think. For humans who reflect.
