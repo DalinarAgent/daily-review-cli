@@ -91,6 +91,12 @@ That's it. No frameworks. No build step. Ship it.
 
 MIT. Free forever. Fork it, modify it, share it.
 
+## Support This Project
+
+If `daily-review` helps you stay continuous, consider a coffee ☕
+
+**[Support on Ko-fi](https://ko-fi.com/dalinar)** - Every donation funds the next tool.
+
 ## Questions?
 
 Open an issue. Or just use it.
